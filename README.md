@@ -1,2 +1,3 @@
-# Hello-Java
-Hello Java desde cero con este curso totalmente gratuito, pensado para personas sin conocimientos previos o que deseen reforzar sus bases. Comenzarás con los conceptos fundamentales de la programación y avanzarás paso a paso hasta dominar la Programación Orientada a Objetos (POO), la esencia de Java.
+# Hello Java
+[![Java](https://img.shields.io/badge/Java-JDK_21+-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.oracle.com/es/java)
+
