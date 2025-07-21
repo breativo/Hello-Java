@@ -1,0 +1,11 @@
+# Ignorar la carpeta .idea de configuración de IntelliJ IDEA
+.idea/
+
+# Ignorar la carpeta de salida de compilación
+out/
+
+# Ignorar archivos temporales y binarios
+*.class
+*.log
+
+# Ignorar cualquier otro archivo o carpeta que no quieras subir
