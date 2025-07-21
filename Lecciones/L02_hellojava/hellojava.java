@@ -1,7 +1,7 @@
 package Lecciones.L02_hellojava;
 
 /**
- * Esta lección es programa muestra cómo escribir y ejecutar un programa básico en Java.
+ * Esta lección muestra cómo escribir y ejecutar un programa básico en Java.
  */
 
 public class hellojava {
